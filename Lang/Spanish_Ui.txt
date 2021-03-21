@@ -1,0 +1,20 @@
+﻿ui_options @ Opciones
+ui_close @ Cerrar
+ui_init @ Inicio
+ui_learn @ Aprender
+ui_skillPoins @ Puntos: %
+ui_skillTree @ Habilidades
+ui_levelUp @ Llegaste a nivel %
+ui_exp @ Experiencia
+ui_expDie @ Cuando mueras vas a perder (% Exp)
+ui_expCurrent @ Tu experiencia es %
+ui_gainSkillPoint @ Ganaste % puntos de Habilidad
+ui_lifeBar @ Vida %
+ui_lifeBarDesc @ Regeneras % de vida por segundo
+ui_manaBar @ Mana %
+ui_manaBarDesc @ Regeneras % de mana por segundo
+ui_youdead @ TE ROMPIERON EL ORTO
+ui_youdeadbutton @ Revivir
+ui_inventory @ Inventario
+ui_destroyItem @ Destruir Item
+ui_destroyItemDesc @ deseas realmente destruir el item? 
